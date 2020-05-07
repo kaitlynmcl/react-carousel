@@ -70,7 +70,6 @@ li button {
 .react-multi-carousel-track {
     list-style: none;
     padding: 1rem;
-    margin-left: 1 rem;
     display: flex;
     flex-direction: row;
     position: relative;
